@@ -1,4 +1,4 @@
-# api-envio-de-mensagem-wtt
+# Api de envio de mensagem no Whatsapp
 Este script automatiza o envio de mensagens pelo WhatsApp Web utilizando Python, Selenium e uma planilha Excel como fonte de dados. Ele realiza as seguintes etapas:
 
 Carregamento de Dados:
